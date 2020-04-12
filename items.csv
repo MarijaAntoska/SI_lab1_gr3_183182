@@ -1,8 +1,13 @@
-"11111	Koka kola	50"
-"22222	Chips	100"
-"33333	Kafe	80"
-"44444	Chokolado	150"
-"55555	Flips	20"
-
-
-char tip;
+11111,koka kola,50,,7.5
+22222,Chips,100,,15
+33333,Kafe,80,,12
+44444,Chokolado,150,,22.5
+55555,Flips,20,,3
+,,,,
+,,,,
+char tip;,,,,
+public Item{},,,,
+,,,,
+void setTip(int t){ this.tip= tip;},,,,
+char getTip(){return tip;},,,,
+double getTaxReturn(int sum=0; return sum;){},,,,
